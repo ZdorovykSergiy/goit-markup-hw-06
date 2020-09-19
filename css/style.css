@@ -447,7 +447,8 @@ footer {
   margin: 0;
   margin-bottom: 9px;
 }
-.join b {
+.join b,
+.footer-form-text {
   margin-bottom: 20px;
   color: var(--primary-white-color);
   font-style: normal;
@@ -456,7 +457,8 @@ footer {
   line-height: 1.14;
   text-transform: uppercase;
 }
-.join {
+.join,
+.footer-form-block {
   margin-right: 94px;
 }
 
@@ -488,7 +490,8 @@ footer {
   background-color: var(--accent-color);
 }
 .adress,
-.join {
+.join,
+.footer-form {
   display: inline-block;
 }
 .adress {
